@@ -1,0 +1,631 @@
+﻿Primeiros passos para  
+começar a programar 
+Curso base para iniciante 
+Juliana Mascarenhas 
+Tech Education Specialist / Sócia (Content Creator) @SimplificandoRedes 
+Me Modelagem Computacional / Cientista de dados 
+@in/juliana-mascarenhas-ds/ 
+[1]
+  
+
+Juliana Mascarenhas   
+Tech Education Specialist 
+Sócia no @SimplificandoRedes 
+Cientista de dados 
+Desenvolvedora Java/Python   
+Me Modelagem Computacional - LNCC https://github.com /julianazanelatto
+[2] 
+  
+
+Sobre Mim 
+Técnica de Telecomunicações - CEFET/RJ 
+2009 – 2011 
+Mestre em modelagem  
+computacional – LNCC 
+2011 - 2015 
+2017 - 2019 
+2023 
+Engenharia da computação - UCP 
+Ingressar no Doutorado LNCC  (objetivo)
+[3] 
+  
+
+Sobre Mim
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+Sobre Mim 
+
+Redes de computadores 
+2009 
+
+
+2012 
+Programação 
+Gerenciamento de  
+Projetos 
+2014 
+2017 
+Ciencia de dados
+[5] 
+
+Cursos 
+[6]
+
+Objetivo Geral 
+Você será capaz de entender o 
+que significa pensar computacionalmente. 
+Pensamento aplicável à qualquer área do conhecimento. 
+Dessa forma, será capaz 
+de resolver qualquer problema de uma maneria 
+mais objetiva e eficiente. 
+[7]
+
+Percurso 
+Aula 1 Pensamento Computacional 
+Aula 2 Introdução à lógica da programação 
+Aula 3 Fundamentos de Algoritmos
+[8] 
+
+Percurso 
+Aula 4 Aula 5 
+Linguagens de programação 
+Primeiro contato com a programação 
+[9]
+Aula 1: Pensamento Computacional
+// Primeiros passos para começar a programar 
+[10] 
+
+Objetivo Geral 
+Apresentar os conceitos que caracterizam o pensamento com putacional, permitindo que o Dev entenda o que significa pensar computacionalmente. 
+[11]
+Percurso 
+Etapa 1 Introdução ao pensamento computacional Etapa 2 Habilidade complementares 
+Etapa 3 Pilares: Decomposição 
+[12]
+Percurso 
+Etapa 4 Pilares: Padrões Etapa 5 Pilares: Abstração Etapa 6 Pilares: Algoritmos 
+[13]
+
+Percurso 
+Etapa 7 Estudo de caso conceitual: perdido 
+Etapa 8 Estudo de caso aplicado: Soma de um intervalo Etapa 9 Estudo de caso aplicado: Adivinhe um número [14]
+
+Etapa 1 
+Introdução ao pensamento computacional 
+// Primeiros passos para programar/Pensamento 
+Computacional 
+[15]
+
+Overview 
+Pensamento computacional? 
+Processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador. 
+(Aho, 2011; Lee, 2016) 
+[16]
+
+Overview 
+Pensamento computacional? 
+Sistemático e eficiente
+Formulação e resolução de problemas 
+[17] 
+
+Overview 
+Pensamento computacional? 
+Sistemático e eficiente 
+Formulação e resolução de problemas 
+Sejam capazes de resolver
+Humanos& máquinas 
+[18] 
+
+Overview 
+Pensamento computacional? 
+Disciplina  acadêmica 
+Habilidade  generalista
+[19] 
+
+Overview 
+Pensamento computacional? 
+MatemáticaLeitura 
+Escrita
+Disciplina  acadêmica 
+Habilidade  generalista 
+[20] 
+
+Overview 
+Baseado em 4 pilares 
+Dividir um problema  
+complexo em subproblemas
+Decomposição Reconhecimento  de padrões 
+
+Abstração 
+
+Design de  
+algoritmos 
+[21] 
+
+Overview 
+Baseado em 4 pilares 
+Dividir um problema  
+complexo em subproblemas
+Decomposição Reconhecimento  de padrões 
+
+Abstração 
+
+Design de  
+algoritmos 
+[22] 
+
+Overview 
+Baseado em 4 pilares 
+Identificar padrões ou  
+tendências
+Decomposição Reconhecimento  de padrões 
+
+Abstração 
+
+Design de  
+algoritmos 
+[23] 
+
+Overview 
+Decomposição 
+Baseado em 4 pilares 
+Reconhecimento  
+de padrões 
+Identificar padrões ou  
+tendências 
+Similaridades e  
+diferenças entre os  
+problemas
+PADRÃO  
+COMPORTAMENTAL 
+Abstração 
+Design de  
+algoritmos 
+[24] 
+
+Overview 
+Baseado em 4 pilares 
+Extrapolar o conceito do  problema para um forma  generalista
+Decomposição Reconhecimento  de padrões 
+
+Abstração 
+
+Design de  
+algoritmos 
+[25] 
+
+Overview 
+Baseado em 4 pilares 
+C = 2.π.r 
+Design 
+Decomposição 
+Extrapolar o conceito do  problema para um forma  
+Reconhecimento  de padrões 
+
+Abstração 
+generalista 
+Classes Métodos 
+POO Herança Polimorfismo
+Design de  algoritmos 
+[26] 
+
+Overview 
+Baseado em 4 pilares 
+Automatizar 
+Definir passo a passo a  
+solução do problema.
+Decomposição Reconhecimento  de padrões 
+
+Abstração Design de  
+algoritmos 
+[27] 
+
+Overview 
+Baseado em 4 pilares 
+Decomposição Reconhecimento  de padrões 
+Input Operator OutputAutomatizar 
+Definir passo a passo a  solução do problema. 
+Abstração Design de  algoritmos 
+[28] 
+
+Overview 
+Processo Contínuo 
+• Definir uma solução • Testar a solução 
+• Aperfeiçoamento da solução encontrada 
+Refinamento
+Teste 
+Análise 
+[29] 
+
+Overview 
+Análise
+Execução da solução e  
+Abstração 
+Resolução de problemas 
+
+
+avaliação (refinamento) Expressão de solução Automatização 
+[30] 
+
+Overview 
+Refinamento
+Algoritmos 
+Raciocínio  
+Lógico 
+Decomposição 
+Padrões 
+Abstração 
+[31] 
+
+Overview 
+1.CS + Math 
+Desenvolvimento e  abstração;  
+Reconhecimento de  padrões ... 
+3.CS + Sci/Eng + Math 
+Modelagem; Definição de  problemas; Definição e  uso de abstrações;  Reconhecimento de  padrões ... 
+CS 
+1 2 
+3 
+Math Sci/Eng 4 
+2.CS + Sci/Eng 
+Análise de dados e design  de soluções; Definição e  uso de abstrações; Teste  e refinamento de  
+algoritmos ... 
+4.Math +Sci/Eng
+Desenvolvimento e  
+abstração;  
+Reconhecimento de  padrões ... 
+[32] 
+
+Overview 
+Exemplos 
+Química 
+• Aperfeiçoamento de reações químicas pela utilização de al goritmos, através da identificação de quimícos 
+Engenharia 
+• Simulações de aeronavas executadas via  
+software em detrimento do tunel de vento 
+[33]
+
+Overview 
+Exemplos 
+Biologia 
+• Modelagem e mapeamento do genoma 
+humano 
+Computação 
+• Simulação de problemas de alta ordem 
+em supercomputadores 
+[34]
+
+Overview 
+Competências 
+• Pensamento sistemático 
+• Colaboração dentro da equipe 
+• Criatividade e design 
+• Facilitador 
+[35]
+
+Etapa 2 
+Habilidades 
+complementares 
+// Primeiros passos para começar a  
+programar/Pensamento Computacional 
+[36]
+Percurso 
+Etapa 1 Introdução ao pensamento computacional Etapa 2 Habilidade complementares 
+Etapa 3 Pilares: Decomposição 
+[37]
+Percurso 
+Etapa 4 Pilares: Padrões Etapa 5 Pilares: Abstração Etapa 6 Pilares: Algoritmos 
+[38]
+
+Percurso 
+Etapa 7 Estudo de caso conceitual: perdido 
+Etapa 8 Estudo de caso aplicado: Soma de um intervalo Etapa 9 Estudo de caso aplicado: Adivinhe um número [39]
+
+Habilidades 
+Raciocínio Lógico Aperfeiçoamento
+[40] 
+
+Raciocínio Lógico 
+Raciocínio lógico é uma forma  
+de pensamento estruturado, ou raciocínio,  
+que permite encontrar a conclusão ou determinar a resolução de um problema. 
+[41]
+
+Raciocínio Lógico 
+Raciocínio lógico é uma forma  
+de pensamento estruturado, ou raciocínio,  
+que permite encontrar a conclusão ou determinar a resolução de um problema. 
+Habilidade de treinamento
+[42] 
+
+Raciocínio Lógico 
+Classificação 
+Indução 
+Dedução Abdução
+[43] 
+
+Raciocínio Lógico 
+Indução 
+Classificação 
+Dedução Abdução 
+Leis e teorias 
+Fenômeno observado
+[44] 
+
+Raciocínio Lógico 
+Indução 
+Classificação 
+Ciências  
+experimentais
+Dedução Abdução 
+Leis e teorias 
+Fenômeno observado 
+[45] 
+
+Raciocínio Lógico 
+Indução 
+Classificação 
+Dedução Abdução 
+Leis e teorias 
+Previsões e explicações[46] 
+
+Raciocínio Lógico 
+Indução 
+Classificação Ciências exatas
+Dedução Abdução 
+Leis e teorias 
+Previsões e explicações [47] 
+
+Raciocínio Lógico 
+Classificação 
+Indução Dedução Abdução 
+Ex: A grama está molhada, logo  deve ter chovido
+Conclusão Premissa 
+[48] 
+
+Raciocínio Lógico 
+Classificação 
+Indução Dedução Abdução 
+Processo  
+investigativo
+Diagnósticos 
+Ex: A grama está molhada, logo  deve ter chovido 
+Conclusão Premissa 
+[49] 
+
+Raciocínio Lógico 
+Inferência Sintética 
+Analítica
+
+Abdução Indução Dedução 
+[50] 
+
+Raciocínio Lógico 
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio. 
+Mesa
+[51] 
+
+Raciocínio Lógico 
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio. 
+Fernanda 
+Filho
+Mesa 
+Pai 
+[52] 
+
+Raciocínio Lógico 
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio. 
+Fernanda 
+Filho Mãe 
+Mesa 
+Pai 
+Sérgio
+[53] 
+
+Raciocínio Lógico 
+Um pai, mãe e seu casal de filhos estão sentados em uma mesa. Os homens se chamam Roberto e Sérgio, as mulheres Teresa e Fernanda. Sabe-se que o pai está à frente de Fernanda e o filho e esquerda; e que a mãe está do lado direito de Sérgio. 
+R: Sérgio é o pai 
+Teresa é a mãe 
+Fernanda a filha e Roberto é o filho.Mesa
+[54] 
+
+Aperfeiçoamento 
+Melhoramento Aprimoramento Refinamento
+Ato de aperfeiçoar 
+[55] 
+
+Aperfeiçoamento 
+Melhoramento Aprimoramento Refinamento 
+Ato de aperfeiçoar 
+A partir de uma solução,  
+determinar pontos de melhora e  refinamento
+[56] 
+
+Aperfeiçoamento 
+Ato de aperfeiçoar 
+• Encontrar solução eficiente • Otimizar processos 
+• Simplificar linhas de códigos • Funções bem definidas 
+Melhor uso de recursos
+Melhorar códigos e  algoritmos 
+[57] 
+Etapa 3
+Pilares: Decomposição 
+// Primeiros passos para começar a  programar/ Pensamento Computacional/ 
+[58] 
+Percurso 
+Etapa 1 Introdução ao pensamento computacional Etapa 2 Habilidade complementares 
+Etapa 3 Pilares: Decomposição 
+[59]
+Percurso 
+Etapa 4 Pilares: Padrões Etapa 5 Pilares: Abstração Etapa 6 Pilares: Algoritmos 
+[60]
+
+Percurso 
+Etapa 7 Estudo de caso conceitual: perdido 
+Etapa 8 Estudo de caso aplicado: Soma de um intervalo Etapa 9 Estudo de caso aplicado: Adivinhe um número [61]
+
+Objetivo Geral 
+É preciso coompreender como executar cada etapa de  um pensamento computacional. 
+Dessa forma, as aulas subsequêntessão dedicadas à compreensão individual de cada pilar desse 
+processo de pensamento. 
+[62]
+
+Decomposição 
+"If you can't solve a problem, 
+then there is an easier 
+problem that you can solve: find it" 
+George Polya – professor e matemático 
+[63]
+
+Decomposição 
+Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional 
+"Dado um problema complexo, devemos quebra-lo em problemas menores. Portanto, problemas 
+mais fáceis e gerenciáveis." 
+[64]
+
+Decomposição 
+Estratégia 
+Processo de quebrar e determinar 
+partes menores e gerenciáveis 
+Análise
+[65] 
+
+Decomposição 
+Estratégia 
+Processo de quebrar e determinar partes menores e gerenciáveis 
+Estudar, explorar Análise 
+"realizar exame  
+detalhado" 
+Decompor em elementos  constituíntes
+[66] 
+
+Decomposição 
+Estratégia 
+Combinar os elementos 
+recompondo o problema original 
+Síntese
+[67] 
+Decomposição Estratégia 
+Combinar os elementos 
+recompondo o problema original 
+Consiste em reunir  
+elementos distintos  
+em um único  
+elemento
+Processo de  
+reconstrução 
+Síntese 
+Fundir os  
+elementos de  
+maneira coerente 
+[68] 
+
+Decomposição 
+Estratégia 
+Ordem de execução de tarefas menores 
+Sequêncial Paralelo
+[69] 
+
+Decomposição 
+Estratégia 
+Sequêncial 
+Ordem de execução de tarefas 
+menores 
+Dependência entre tarefas.  
+Executadas em "fila"
+[70] 
+
+Decomposição 
+Estratégia 
+Ordem de execução de tarefas 
+menores 
+Tarefas podem ser executadas  
+concomitantemente. 
+Paralelo 
+Eficiência 
+Tempo
+[71] 
+
+Decomposição 
+Variáveis 
+Pequenos  
+problemasSegmentação
+[72] 
+
+Decomposição 
+• Não basta aplicar 
+Variáveis 
+Pequenos  
+problemasSegmentação 
+• Desenvolver a decomposição "by yourself" 
+Maneiras distintas de  
+decompor o mesmo  
+problema
+[73] 
+
+Decomposição 
+Como decompor? 
+Identificar ou  
+coletar dados 
+Agregar os  
+dados Funcionalidade Decomposição
+[74] 
+
+Decomposição 
+Exemplos
+[75] 
+
+Decomposição 
+Ex do cotidiano: cozinhar 
+• Identificar os ingredientes 
+• Determinar as etapas (sequêncial ou paralelo) • Executar cada etapa 
+• Agregar os ingredientes para finalizar (Recompor com  coerência)
+[76] 
+
+Decomposição 
+Ex do cotidiano: funcionamento de uma bike 
+• Identificar os componentes • Papel de cada componente • Interdependência das peças 
+Funcionamento  do sistema
+[77] 
+
+Decomposição 
+Exemplo: criar um app 
+• Finalidade 
+• Interface 
+• Funcinalidades • Pré-requisitos 
+Definição de  
+componentes e etapas 
+Desenvolvimento mais  
+eficiente
+[78] 
+
+Decomposição 
+Exemplo: criar um app 
+• Finalidade 
+• Interface 
+• Funcinalidades • Pré-requisitos 
+Definição de  
+componentes e etapas 
+Desenvolvimento mais  
+eficiente
+[79] 
+
+Decomposição 
+Exemplo: Artigo 
+• O que será abordado? 
+• Estrutura 
+• Conteúdo de cada tópico • Textos de conexão 
+Definição de  
+componentes e etapas 
+Sequêncial ou paralelo 
+Em ordem ou não
+[80]

@@ -1,0 +1,13 @@
+﻿História do Java:
+* Desenvolvida na década de 90 pela Sun MicroSystem;
+* Adquirida pela Oracle 2008;
+* Presente em jogos, navegadores, programas, celulares etc..
+Características do Java:
+* Linguagem interpretada: 
+O programa criado passa por um compilador (JDK) que transforma o programa .java em .class, que futuramente será traduzido pela JVM (Java Virtual Machine) para a linguagem do sistema operacional em uso.
+* Diferente de outras linguagem que se compilam durante o desenvolvimento do programa,  o Java é compilado para um arquivo .class chamado bytecode.
+* Por possuir essa JVM, ele pode ser emulado e executado em qualquer sistema operacional.
+* JAVA SE = Classes java; JAVA EE = Desenvolvimento web, JAVA ME= Dispositivos Móveis e embarcado.
+* Se você precisa apenas rodar um programa em Java, terá que ter em sua máquina o JRE(Java Runtime Environment, responsável pelas bibliotecas) e o JVM (Compilador final).
+* Se você precisa programar, precisará também do JDK, para traduzir o .java para .class.
+* IDE = Um ambiente de desenvolvimento, geralmente utilizando uma GUI (Graphic User Interface) que é uma interface gráfica para o usuário trabalhar.
